@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.primeira-sessao {
+  background-color: aqua;
+  width: 500px;
+  height: 500px;
+}
+.primeira-sessao div {
+  background-color: greenyellow;
+  width: 50vw;
+  height: 50vh;
+}
+
+.segunda-sessao {
+  background-color: orangered;
+  height: 60vh;
+  width: 60vw;
+}
+.segunda-sessao div {
+  background-color: purple;
+  width: 50%;
+  height: 50%;
+}/*# sourceMappingURL=style.css.map */
